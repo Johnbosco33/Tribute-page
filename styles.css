@@ -141,7 +141,7 @@ font-weight: 900;
   }
 
   .biggie p{
-    text-align: center;
+    text-align: left;
     display: inline-table;
     width: 50%;
 font-size: 15px;
