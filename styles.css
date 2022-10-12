@@ -137,8 +137,9 @@ font-weight: 900;
 
 .end{
     text-align: center;
-    font-size: 15px;
-  }
+    font-size: 10px;
+margin-top: 10px;  
+}
 
   .biggie p{
     text-align: center;
@@ -168,7 +169,7 @@ margin: 0;
    .biggie{
     width: 100%;
     background-color: whitesmoke;
-padding-top: -35px;
+padding-top: 0px;
 margin-top: 30px;
 border-radius: 10px;
 object-fit: cover;
