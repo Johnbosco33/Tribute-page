@@ -141,7 +141,7 @@ font-weight: 900;
   }
 
   .biggie p{
-    text-align: left;
+    text-align: center;
     display: inline-table;
     width: 95%;
 font-size: 15px;
@@ -172,6 +172,11 @@ padding-top: -35px;
 margin-top: 30px;
 border-radius: 10px;
 object-fit: cover;
+}
+
+.inserted{
+    text-align: left;
+    list-style-position: outside;
 }
 }
 
